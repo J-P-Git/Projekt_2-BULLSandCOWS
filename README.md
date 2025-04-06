@@ -1,4 +1,4 @@
-## Bull & Cows
+## Bulls & Cows
 
 Game  
 
